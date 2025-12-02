@@ -19,7 +19,7 @@ export const siteConfig = {
         "Особенности проекта: система лайков, модальное окно с увеличенным просмотром изображений и описанием, навигация между иллюстрациями"
       ],
       screenshots: [
-        "public/assets/project-gallery/gallery.gif"
+        "/assets/project-gallery/gallery.gif"
       ],
       link: "https://gallery-rosy-delta.vercel.app/",
       skills: ["JavaScript", "React", "RTK Query", "React Router DOM", "CSS Modules", "Supabase", "Vite"],
@@ -32,7 +32,7 @@ export const siteConfig = {
         "Особенности проекта: аутентификация и авторизация, CRUD операции с задачами, приоритизация задач (низкий, средний, высокий), фильтрация по статусу"
       ],
       screenshots: [
-        "public/assets/project-task-manager/task-manager.gif"
+        "/assets/project-task-manager/task-manager.gif"
       ],
       link: "https://task-manager-elvy.vercel.app/",
       skills: ["JavaScript", "React", "RTK Query", "React Router DOM", "React Hook Form", "Yup", "SCSS", "Supabase", "Vite"],
@@ -45,9 +45,9 @@ export const siteConfig = {
         "Особенности проекта: CRUD операции с каналами, система всплывающих уведомлений, сообщения в реальном времени на базе WebSockets"
       ],
       screenshots: [
-        "public/assets/project-chat/entry.gif",
-        "public/assets/project-chat/change-channel.gif", 
-        "public/assets/project-chat/messages.gif"
+        "/assets/project-chat/entry.gif",
+        "/assets/project-chat/change-channel.gif", 
+        "/assets/project-chat/messages.gif"
       ],
       link: "https://frontend-project-12-bqe1.onrender.com",
       skills: ["JavaScript", "React", "Redux Toolkit", "WebSockets", "Bootstrap", "i18next", "Formik", "Yup", "Vite"],
@@ -59,7 +59,7 @@ export const siteConfig = {
         "Особенности проекта: валидация RSS-лент, автоматическое обновление ленты (каждые 5 секунд), обработка сетевых ошибок"
       ],
       screenshots: [
-        "public/assets/project-RSS/RSS_aggregator.gif"
+        "/assets/project-RSS/RSS_aggregator.gif"
       ],
       link: "https://frontend-project-11-eosin-sigma.vercel.app/",
       skills: ["JavaScript", "Bootstrap", "i18next", "Yup", "Vite"],
