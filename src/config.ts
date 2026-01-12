@@ -10,20 +10,20 @@ export const siteConfig = {
   },
   aboutMe:
     "",
-  skills: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS", "Tailwind CSS", "Next.js", "React", "Redux Toolkit", "RTK Query", "React Router DOM", "Bootstrap", "Vite"],
+  skills: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS", "Tailwind CSS", "Bootstrap", "Next.js", "React", "Redux Toolkit", "RTK Query", "React Router DOM", "Vite"],
   projects: [
     {
       "name": "Next Pizza",
       "description": [
         "Полнофункциональный интернет-магазин с полным циклом заказа: от выбора товара до онлайн-оплаты (клон ДодоПиццы).",
-        "Демо-аккаунт: логин: user@test.com | пароль: user (можно оформить заказ и без создания аккаунта). Ф оформлении заказа требуется указать следующую почту – volkovaanastasia301@gmail.com.",
-        "Особенности проекта: серверная фильтрация с хранением в URL, корзина с Zustand, модальные окна через Parallel Routes, авторизация (логин/пароль, GitHub, Google), подтверждение email, интеграция с ЮKassa, отправка транзакционных писем через Resend, работа с Prisma и PostgreSQL"
+        "Демо-аккаунт: логин: user@test.com | пароль: user (можно оформить заказ и без создания аккаунта).",
+        "Особенности проекта: серверная фильтрация с хранением в URL, корзина с Zustand, модальные окна через Parallel Routes, авторизация (логин/пароль, GitHub, Google), подтверждение email, интеграция с ЮKassa, отправка транзакционных писем через Resend, работа с Prisma."
       ],
       "screenshots": [
         "/assets/project-next-pizza/next-pizza.gif"
       ],
       "link": "https://next-pizza-tau-three.vercel.app/",
-      "skills": ["TypeScript", "Next.js", "Tailwind CSS", "Shadcn/ui", "Prisma", "PostgreSQL", "NextAuth.js", "React Hook Form", "Zod", "Zustand", "Resend", "YooKassa API", "Vercel"]
+      "skills": ["TypeScript", "Next.js", "Tailwind CSS", "Shadcn/ui", "Prisma", "NextAuth.js", "React Hook Form", "Zod", "Zustand", "Resend", "YooKassa API", "Vercel"]
     },
     {
       name: "Gallery Platform",
